@@ -7,7 +7,7 @@ def main():
 	data = ''
 	while (i < 3):
 		data +=  sys.stdin.readline().rstrip('\n')
-		if (len(data) > (i + 1) * 5):
+		if (len(data) != (i + 1) * 5):
 			print("Error")
 			return (-1)
 		i += 1
@@ -22,5 +22,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
-
