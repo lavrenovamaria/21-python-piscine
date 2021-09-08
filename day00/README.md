@@ -228,5 +228,3 @@ terrorists will be located by the cameras in no time.
 And Sherlock will get ready for some another challenge organized by a 
 mysterious man hiding behind a letter M. Sometimes it seems like these
 puzzles were specifically engineered for him to solve...
-
-**Please leave your feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSelWnZ5_63N2hc_tAHyU3Hmzt7BG7ZiAB5vmA9axcA_ThiPwA/viewform?usp=sf_link)**
