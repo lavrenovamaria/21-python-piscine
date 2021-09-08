@@ -236,5 +236,3 @@ interesting thoughts to wrap the head around. And about ruling the
 world...in its current state the world wasn't ready for something
 like ZAX. Not like wild raiders would ever pass the crown to a tin
 can. Not like the Chosen One himself would.
-
-**Please leave your feedback [here](https://forms.gle/oMEJnwqt5pkLydYy5)**
