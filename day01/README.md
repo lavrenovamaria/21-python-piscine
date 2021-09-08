@@ -131,6 +131,3 @@ But then it was too late. Or, on the other hand, too early - morning came and fi
  &mdash; I knew it was your idea! - hobbit said enthusiastically. - You've imitated their voices so they wouldn't stop arguing, right?
 
  &mdash; Not really, my honorable Burglar. - objected old wizard. - This is what happens when various trolls spend too much time comparing object-oriented programming style with functional programming. But it is some very dark magic you shouldn't really worry about, my friend...
-
-
-**Please leave your feedback [here](https://docs.google.com/forms/d/e/1FAIpQLSc9IEAPVeHKnBGZKmG6cZOaQwPX-W0vwa3-mjjm4LsBs0jr3g/viewform?usp=sf_link)**
