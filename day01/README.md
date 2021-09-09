@@ -1,6 +1,6 @@
 # Day 01 - Python Piscine
 
-## Trolling is a art
+## Trolling is an art
 
 Help three honorable gentlemen to figure out the better way
 
